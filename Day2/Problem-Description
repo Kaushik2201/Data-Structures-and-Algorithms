@@ -1,0 +1,14 @@
+I have solved 3 questions on Greedy Algorithm today i.e 04-08-2023
+
+1. Maximum number of tasks a person can do at one time 
+The start time and end time arrays are given and we need to find the maximum tasks a person can do at a time i.e previous task end time
+must be strictly lesser or equal to start time of next task
+
+2. Minimum number of notes/coins needed to make a given value V
+The notes or coins are of rupees 1, 2, 5, 10, 20, 50, 100, 500, 1000 only
+
+3. Finding the minimum sum of all the elements present in an Array
+Need to return the minimum sum of all the elements used in an Array. 
+Hint - Integer.parseint() function used .
+
+ALL PROBLEMS ARE AVAILABLE ON GFG

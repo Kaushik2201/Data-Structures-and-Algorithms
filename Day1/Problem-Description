@@ -1,0 +1,11 @@
+Today i.e 03-08-2023 I solved 3 Problems 
+
+1. Check if the given string contains unique characters or not 
+If else RETURN true and PRINT the given string itself 
+or If not RETURN false and PRINT the string with unique characters.
+
+2. Find and RETURN the MAXIMUM and MINIMUM element in an Array of Integers 
+solved using Math.Integer.MAX/MIN_VALUE.
+
+3. Check if an Array of Integers contains duplicates or not
+RETURN false if it contains or RETURN true if it doesn't contain.

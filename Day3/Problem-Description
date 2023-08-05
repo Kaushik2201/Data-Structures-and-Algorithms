@@ -1,0 +1,16 @@
+I have solved 3 problems today i.e 05-08-2023
+
+1. To check if the fiven string is a Palindrome or not 
+Return true if it is or else false. 
+I have used 2 techniques 
+a) With the help of stack
+b) By comparing start and end of that same string by the help of two pointers
+
+2. To check if a string is an anagram 
+Return true if it is else false
+
+3. Valid Parenthesis 
+If a bracket is opened it should be closed to be valid 
+Return true if its valid or else false
+
+ALL PROBLEMS ARE AVAILABLE ON LEETCODE 

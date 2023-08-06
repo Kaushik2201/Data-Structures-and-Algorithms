@@ -1,0 +1,14 @@
+Today i.e 06-08-2023 I have solved 3 problems 
+
+1. Max Depth of the tree 
+Calculate and RETURN one value ie the depth of a binary tree
+
+2. Chocolate problem 
+An array containing size/height of chocolate bars are given and few chocolates are needed 
+to be selected in such a way that the height difference between tallest and smallest chocolate
+is minimum.
+RETURN that minimum difference
+
+3. Reverse an array 
+No Auxilary space is to be used 
+Make a function that RETURNS an Array and RETURN that new Array 

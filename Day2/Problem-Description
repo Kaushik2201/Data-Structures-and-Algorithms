@@ -11,5 +11,5 @@ The notes or coins are of rupees 1, 2, 5, 10, 20, 50, 100, 500, 1000 only
 Need to return the minimum sum of all the elements used in an Array. 
 Hint - Integer.parseint() function used .
 
-ALL PROBLEMS ARE AVAILABLE ON GFG
+ALL PROBLEMS ARE AVAILABLE ON GFG 
  

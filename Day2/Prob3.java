@@ -4,7 +4,7 @@ package Day2;
 
 import java.util.*;
 
-public class prob3{
+public class Prob3{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

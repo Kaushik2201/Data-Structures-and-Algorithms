@@ -41,4 +41,4 @@ public class Prob3{
 
         sc.close();
     }
-}
+} 
